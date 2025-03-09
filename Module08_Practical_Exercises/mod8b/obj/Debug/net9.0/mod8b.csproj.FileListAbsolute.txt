@@ -1,0 +1,14 @@
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/bin/Debug/net9.0/mod8b
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/bin/Debug/net9.0/mod8b.deps.json
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/bin/Debug/net9.0/mod8b.runtimeconfig.json
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/bin/Debug/net9.0/mod8b.dll
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/bin/Debug/net9.0/mod8b.pdb
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/obj/Debug/net9.0/mod8b.GeneratedMSBuildEditorConfig.editorconfig
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/obj/Debug/net9.0/mod8b.AssemblyInfoInputs.cache
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/obj/Debug/net9.0/mod8b.AssemblyInfo.cs
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/obj/Debug/net9.0/mod8b.csproj.CoreCompileInputs.cache
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/obj/Debug/net9.0/mod8b.dll
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/obj/Debug/net9.0/refint/mod8b.dll
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/obj/Debug/net9.0/mod8b.pdb
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/obj/Debug/net9.0/mod8b.genruntimeconfig.cache
+/home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/obj/Debug/net9.0/ref/mod8b.dll

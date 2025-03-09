@@ -1,0 +1,74 @@
+[2025-03-09 15:36:48] Backup created: asdf.txt
+Original: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+Backup: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153648
+Size: 0 B
+
+[2025-03-09 15:37:09] Backup created: asdf.txt
+Original: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+Backup: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153709
+Size: 8 B
+
+[2025-03-09 15:37:09] Backup created: asdf.txt
+Original: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+Backup: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153709
+Size: 8 B
+
+[2025-03-09 15:37:09] Backup created: asdf.txt
+Original: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+Backup: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153709
+Size: 8 B
+
+[2025-03-09 15:37:17] Backup created: asdf.txt
+Original: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+Backup: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153717
+Size: 14 B
+
+[2025-03-09 15:37:17] Backup created: asdf.txt
+Original: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+Backup: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153717
+Size: 14 B
+
+[2025-03-09 15:37:17] Backup created: asdf.txt
+Original: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+Backup: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153717
+Size: 14 B
+
+[2025-03-09 15:37:29] File restored: asdf.txt
+Restored from: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153648
+Destination: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+
+[2025-03-09 15:37:29] Backup created: asdf.txt
+Original: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+Backup: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153729
+Size: 0 B
+
+[2025-03-09 15:37:29] Old version removed: asdf.txt.2025-03-09-153729
+
+[2025-03-09 15:37:29] Backup created: asdf.txt
+Original: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+Backup: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153729
+Size: 0 B
+
+[2025-03-09 15:37:29] Old version removed: asdf.txt.2025-03-09-153729
+
+[2025-03-09 15:37:43] File restored: asdf.txt
+Restored from: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153717
+Destination: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+
+[2025-03-09 15:37:43] Backup created: asdf.txt
+Original: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+Backup: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153743
+Size: 14 B
+
+[2025-03-09 15:37:43] Old version removed: asdf.txt.2025-03-09-153648
+
+[2025-03-09 15:37:43] Backup created: asdf.txt
+Original: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+Backup: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153743
+Size: 14 B
+
+[2025-03-09 15:37:43] Backup created: asdf.txt
+Original: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/source/asdf.txt
+Backup: /home/dalton/Development/CS3280/Module08_Practical_Exercises/mod8b/backup/asdf.txt.2025-03-09-153743
+Size: 14 B
+

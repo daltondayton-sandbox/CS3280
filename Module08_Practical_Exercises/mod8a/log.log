@@ -1,0 +1,24 @@
+[TIMESTAMP] [LEVEL] Message
+[2024-01-15 10:30:15] [ERROR] Database connection failed
+[2024-01-15 10:30:20] [INFO] Server started
+[2024-01-15 10:31:00] [WARNING] High memory usage
+[2024-01-15 10:32:10] [DEBUG] User login successful
+[2024-01-15 10:33:45] [INFO] Scheduled backup started
+[2024-01-15 10:34:10] [ERROR] Failed to write to backup disk
+[2024-01-15 10:35:00] [INFO] Backup process terminated
+[2024-01-15 10:36:25] [WARNING] Disk space running low
+[2024-01-15 10:37:50] [INFO] User logged out
+[2024-01-15 10:38:15] [DEBUG] Cache cleared
+[2024-01-15 10:39:30] [INFO] New user registered
+[2024-01-15 10:40:05] [ERROR] Payment gateway timeout
+[2024-01-15 10:41:20] [INFO] Payment retried successfully
+[2024-01-15 10:42:45] [WARNING] High CPU usage detected
+[2024-01-15 10:43:10] [DEBUG] CPU usage normalized
+[2024-01-15 10:44:30] [INFO] Scheduled task completed
+[2024-01-15 10:45:55] [ERROR] Network connection lost
+[2024-01-15 10:46:20] [INFO] Network connection restored
+[2024-01-15 10:47:35] [WARNING] Unusual login attempt detected
+[2024-01-15 10:48:50] [DEBUG] Login attempt blocked
+[2024-01-15 10:49:15] [INFO] User password changed
+[2024-01-15 10:50:30] [ERROR] Email service unavailable
+[2024-01-15 10:51:45] [INFO] Email service restored

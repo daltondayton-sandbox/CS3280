@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NKpEJgVsU+vzYny1YWSPQ0Hhxmh0CN4/BRl8uvyJnQXHfztSdFCesAQWGoDvCCjYW+VqBaSf7sztbH7gA5VG0g==",
+  "success": true,
+  "projectFilePath": "/home/dalton/Development/CS3280/Module05_Practical_Exercises/ex2/MyProject.csproj",
+  "expectedPackageFiles": [
+    "/home/dalton/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
